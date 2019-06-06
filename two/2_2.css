@@ -1,0 +1,11 @@
+table{
+    background-color: aqua;
+    
+}
+tr{
+    background-color: blueviolet;
+}
+td{
+    padding: 3px;
+    background-color: pink;
+}
